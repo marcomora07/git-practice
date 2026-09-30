@@ -1,0 +1,22 @@
+What Claude knows about me
+==========================
+
+Everything below comes from this one Claude Code session and this repo.
+Claude has no saved memories about me from earlier sessions.
+
+Who I am
+- Name: Marco Mora (from my git config)
+- GitHub username: marcomora07
+
+What I'm doing
+- Learning git: branches, pushing, and turning branches into pull requests
+- Practicing in the repo marcomora07/git-practice
+- Already merged two PRs here: #1 (add-notes) and #2 (update-text)
+- Worked on a branch called my-change, where I replaced line 6 of new.html
+  with "hello world"
+
+My setup
+- Windows 11 Home
+- The repo lives in a GitLearning folder on my OneDrive desktop
+- I use Claude Code in the Claude desktop app
+- The GitHub CLI (gh) isn't installed yet, so I open PRs in the browser
